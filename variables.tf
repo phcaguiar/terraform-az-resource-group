@@ -1,5 +1,5 @@
-variable "prefix" {
-  description = "Default prefix to use with your resource names."
+variable "name" {
+  description = "Default value to use with your resource names."
   default     = ""
 }
 
